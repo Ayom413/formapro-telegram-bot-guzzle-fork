@@ -1,5 +1,5 @@
 {
-  "name": "formapro/telegram-bot",
+  "name": "formapro-telegram-bot-guzzle-fork",
   "type": "library",
   "description": "PHP Telegram Bot",
   "keywords": ["telegram", "bot", "client"],
@@ -18,3 +18,4 @@
     }
   }
 }
+
